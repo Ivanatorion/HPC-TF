@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "graph.h": "c",
+        "gnn.h": "c",
+        "pcheaders.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "time.h": "c"
+    }
+}
